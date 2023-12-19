@@ -8543,7 +8543,7 @@ __metadata:
     jwks-rsa: "npm:3.1.0"
     typescript: "npm:5.3.3"
   peerDependencies:
-    supertokens-node: 15.2.1
+    supertokens-node: 16.6.8
   languageName: unknown
   linkType: soft
 
